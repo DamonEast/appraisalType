@@ -2,7 +2,7 @@
   "name": "appraisal-type",
   "version": "1.0.0",
   "description": "Js类型检测",
-  "main": "./dis/index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "clean": "rm -rf dist && mkdir dist",
